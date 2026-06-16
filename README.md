@@ -13,7 +13,7 @@ The reminders are stored in a file.
 * Viewers- User input and output handling
 * Controllers- User actions
 
-##### Key Ideas
+## Key Ideas
 * MVC STRUCTURE 
 * Java file handling
 * List operations
